@@ -1,0 +1,49 @@
+* {
+    background-color: wheat;
+    font-family: Georgia, "Times New Roman";
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.head {
+    margin: 10px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.hobby {
+    margin: 10px;
+    font-size: 15px;
+}
+
+.films {
+    padding: 10px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.logo {
+    width: 500px;
+    height: 350px;
+    border: 2px solid red;
+}
+
+.social-media {
+    margin: 10px;
+    text-decoration: none;
+    color: #00bfff;
+    font-size: 20px;
+}
+
+.social-media:hover {
+    color: red;
+}
+
